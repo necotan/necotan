@@ -11,7 +11,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,js,css,ts,react,nextjs,php,java,c,postgres,supabase" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,js,css,ts,react,nextjs,php,java,c,postgres,supabase,astro,cloudflare" />
 
 <br>
 
