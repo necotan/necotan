@@ -1,24 +1,35 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=necotan" />
+  <img src="https://komarev.com/ghpvc/?username=necotan&color=blueviolet" />
 </div>
 
-## Hi there
+<h2 align="center">Hi there, I'm necotan 🐈</h2>
+
+<p align="center">
+  IT/CS student building web apps around cars, photography, and everyday tools.
+</p>
+
+<p align="center">
+  <a href="https://necotan-log.com/"><img src="https://img.shields.io/badge/Blog-necotan%20log.-000000?style=for-the-badge&logo=astro&logoColor=white"></a>
+</p>
+
+## About me
 
 - IT/CS student | TypeScript / Next.js / Supabase
 - Interested in mobility & automotive, security, infrastructure, frontend/backend, and UI/UX
-- Personal Blog: [necotan log.](https://necotan-log.com/)
-
-<br>
 
 ## Tech I've touched
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,js,css,ts,react,nextjs,php,java,c,postgres,supabase,astro,cloudflare" />
-
-<br>
+<p align="center">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,js,css,ts,react,nextjs,php,java,c,postgres,supabase,astro,cloudflare,vercel" />
+</p>
 
 ## Activities
 
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=necotan&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=necotan&theme=vue-dark&layout=compact" />
-</div>
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=necotan&theme=vue-dark&show_icons=true&hide=contribs&line_height=24&bg_color=161b22&border_color=30363d" />
+  <img alt="Top languages" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=necotan&theme=vue-dark&layout=compact&langs_count=6&bg_color=161b22&border_color=30363d" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=necotan&theme=vue-dark&background=161b22&border=30363d" />
+</p>
