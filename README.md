@@ -9,7 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://necotan-log.com/"><img src="https://img.shields.io/badge/Blog-necotan%20log.-000000?style=for-the-badge&logo=astro&logoColor=white"></a>
+  <a href="https://necotan-log.com/"><img src="https://img.shields.io/badge/Blog-necotan%20log.-000000?logo=astro&logoColor=white"></a>
+  <br>
+  <img src="https://img.shields.io/badge/Native-日本語%20(JA)-BC002D?logo=googletranslate&logoColor=white">
+  <img src="https://img.shields.io/badge/Learning-English%20(EN)-012169?logo=googletranslate&logoColor=white">
+  <img src="https://img.shields.io/badge/Cert-基本情報技術者-0067C0">
+  <img src="https://img.shields.io/badge/技術者倫理-履修済み-238636">
 </p>
 
 ## About me
