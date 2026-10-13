@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=necotan&color=blueviolet" />
-</div>
-
 <h2 align="center">Hi there, I'm necotan 🐈</h2>
 
 <p align="center">
