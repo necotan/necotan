@@ -26,11 +26,13 @@
 
 ## Activities
 
+## Activities
+
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=necotan&theme=vue-dark&show_icons=true&hide=contribs&line_height=24&bg_color=161b22&border_color=30363d&title_color=3fb950&icon_color=3fb950&ring_color=3fb950" />
-  <img alt="Top languages" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=necotan&theme=vue-dark&layout=compact&langs_count=6&bg_color=161b22&border_color=30363d&title_color=3fb950" />
+  <img alt="GitHub stats" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=necotan&theme=vue-dark&show_icons=true&hide=contribs&line_height=24&bg_color=161b22&border_color=30363d&title_color=e6edf3&text_color=e6edf3&icon_color=3fb950&ring_color=3fb950" />
+  <img alt="Top languages" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=necotan&theme=vue-dark&layout=compact&langs_count=6&bg_color=161b22&border_color=30363d&title_color=e6edf3&text_color=e6edf3" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=necotan&theme=vue-dark&background=161b22&border=30363d&ring=3fb950&fire=3fb950&currStreakNum=3fb950&sideNums=3fb950&currStreakLabel=3fb950&sideLabels=3fb950" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=necotan&theme=vue-dark&background=161b22&border=30363d&ring=3fb950&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=8b949e" />
 </p>
