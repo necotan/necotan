@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://necotan-log.com/"><img src="https://img.shields.io/badge/Blog-necotan%20log.-000000?logo=astro&logoColor=white"></a>
+    <a href="https://necotan-log.com/"><img height="28" src="https://img.shields.io/badge/Blog-necotan%20log.-8957e5?logo=astro&logoColor=white&labelColor=30363d"></a>
   <br>
-  <img src="https://img.shields.io/badge/L1-日本語%20(JA)-D7263D?logo=googletranslate&logoColor=white">
-  <img src="https://img.shields.io/badge/L2-English%20(EN)-0A3161?logo=googletranslate&logoColor=white">
-  <img src="https://img.shields.io/badge/Cert-基本情報技術者-0067C0">
-  <img src="https://img.shields.io/badge/技術者倫理-履修済み-238636">
+  <img src="https://img.shields.io/badge/L1-Japanese-30363d?labelColor=21262d">
+  <img src="https://img.shields.io/badge/L2-English-30363d?labelColor=21262d">
+  <img src="https://img.shields.io/badge/Cert-基本情報技術者-30363d?labelColor=21262d">
 </p>
+
 
 ## About me
 
@@ -27,10 +27,10 @@
 ## Activities
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=necotan&theme=vue-dark&show_icons=true&hide=contribs&line_height=24&bg_color=161b22&border_color=30363d" />
-  <img alt="Top languages" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=necotan&theme=vue-dark&layout=compact&langs_count=6&bg_color=161b22&border_color=30363d" />
+  <img alt="GitHub stats" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=necotan&theme=vue-dark&show_icons=true&hide=contribs&line_height=24&bg_color=161b22&border_color=30363d&title_color=3fb950&icon_color=3fb950&ring_color=3fb950" />
+  <img alt="Top languages" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=necotan&theme=vue-dark&layout=compact&langs_count=6&bg_color=161b22&border_color=30363d&title_color=3fb950" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=necotan&theme=vue-dark&background=161b22&border=30363d" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=necotan&theme=vue-dark&background=161b22&border=30363d&ring=3fb950&fire=3fb950&currStreakNum=3fb950&sideNums=3fb950&currStreakLabel=3fb950&sideLabels=3fb950" />
 </p>
