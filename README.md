@@ -26,8 +26,6 @@
 
 ## Activities
 
-## Activities
-
 <p align="center">
   <img alt="GitHub stats" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=necotan&theme=vue-dark&show_icons=true&hide=contribs&line_height=24&bg_color=161b22&border_color=30363d&title_color=e6edf3&text_color=e6edf3&icon_color=3fb950&ring_color=3fb950" />
   <img alt="Top languages" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=necotan&theme=vue-dark&layout=compact&langs_count=6&bg_color=161b22&border_color=30363d&title_color=e6edf3&text_color=e6edf3" />
